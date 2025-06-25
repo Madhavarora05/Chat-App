@@ -1,10 +1,10 @@
-# 💬 Real-Time Chat Application
+# Real-Time Chat Application
 
 A simple and responsive real-time chat app built using **Node.js**, **Express**, **Socket.IO**, and **React**. This was created as part of the full-stack development assignment to demonstrate WebSocket communication and UI interactivity.
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 
@@ -26,7 +26,7 @@ chat-app/
 
 ---
 
-## ⚙️ Technologies Used
+## Technologies Used
 
 - **Frontend**: React (via Create React App), HTML5, CSS3
 - **Backend**: Node.js, Express.js
@@ -35,7 +35,7 @@ chat-app/
 
 ---
 
-## 📦 Dependencies
+## Dependencies
 
 ### Frontend
 
@@ -56,7 +56,7 @@ Installed via `npm install` inside the `backend/` directory:
 
 ---
 
-## 🚀 How to Run Locally
+## How to Run Locally
 
 ### 1. Clone the Repository
 
@@ -95,14 +95,14 @@ Make sure both servers are running in separate terminals.
 
 ---
 
-## ✨ Features Implemented
+## Features Implemented
 
-* ✅ Simple login form (no auth, username only)
-* ✅ Real-time chat using WebSockets
-* ✅ Typing indicators (shows when a user is typing)
-* ✅ Chat history display with system messages
-* ✅ Responsive design for mobile and desktop
-* ✅ Clean and readable UI with styled components
+* Simple login form (no auth, username only)
+* Real-time chat using WebSockets
+* Typing indicators (shows when a user is typing)
+* Chat history display with system messages
+* Responsive design for mobile and desktop
+* Clean and readable UI with styled components
 
 ---
 
