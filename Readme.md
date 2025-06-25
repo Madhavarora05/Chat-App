@@ -106,7 +106,7 @@ Make sure both servers are running in separate terminals.
 
 ---
 
-## 📊 Architecture & Flow
+## Architecture & Flow
 
 * When the React app loads, user submits a username via the login screen.
 * After login, React connects to the Socket.IO server and sends/receives events like:
